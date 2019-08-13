@@ -28,7 +28,7 @@ function displayTime() {
     } else if (hourNowNoUser > 12) {
       greetingNoUser = 'Buenas tardes, bienvenidos a nzysoft.com!';
     } else if (hourNowNoUser > 0) {
-      greetingNoUser = 'Buenos dias, bienvenidos a mi nzysoft.com';
+      greetingNoUser = 'Buenos dias, bienvenidos a nzysoft.com';
     } else {
       greetingNoUser = 'Bienvenido!';
     }
