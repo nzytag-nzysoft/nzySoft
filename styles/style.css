@@ -32,9 +32,10 @@ h1{
   }
   
   .proyectos > ul > li > figure > img {
-      
+
     width: 100%;
   }
+  
   
   .proyectos > ul > li > figure > figcaption {
     position: absolute;
