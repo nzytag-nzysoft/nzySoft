@@ -6,6 +6,50 @@
 h1{
     text-align: center;
 }
+.proyectos {
+    padding: 2rem;
+  }
+  
+  .proyectos > ul {
+    list-style-type: none;
+    /* grid styles */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+  }
+  
+  .proyectos > ul > li {
+    border: 1px solid #ccc;
+    border-radius: .3rem;
+  }
+  
+  .proyectos > ul > li > figure {
+    max-height: 220px;
+    overflow: hidden;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+    position: relative;
+  }
+  
+  .proyectos > ul > li > figure > img {
+    width: 100%;
+  }
+  
+  .proyectos > ul > li > figure > figcaption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(9, 150, 215, 0.7);
+    width: 100%;
+  }
+  
+  .proyectos > ul > li > figure > figcaption > h3 {
+    color: white;
+    padding: .75rem;
+    font-size: 1.25rem;
+  }
+  
+
+
 #sticky {
     width:100%;
     height:30px;
