@@ -1,0 +1,20 @@
+Script started on Mon Aug 12 21:14:52 2019
+[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft]1;..folio-nzySoft[0m[27m[24m[J[01;32m➜  [36mportafolio-nzySoft[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd script[?1l>[?2004l
+]2;cd script]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft/script]1;..zySoft/script[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httouch app.js[?1l>[?2004l
+]2;touch app.js]1;touch[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft/script]1;..zySoft/script[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft]1;..folio-nzySoft[0m[27m[24m[J[01;32m➜  [36mportafolio-nzySoft[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsstyles. [?1l>[?2004l
+]2;styles]1;styles[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft/styles]1;..zySoft/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httouch style.css[?1l>[?2004l
+]2;touch style.css]1;touch[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft/styles]1;..zySoft/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft]1;..folio-nzySoft[0m[27m[24m[J[01;32m➜  [36mportafolio-nzySoft[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httouch index.html[?1l>[?2004l
+]2;touch index.html]1;touch[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft]1;..folio-nzySoft[0m[27m[24m[J[01;32m➜  [36mportafolio-nzySoft[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m "basic     estructura de folders basica [K"[?1l>[?2004l
+]2;git commit -m "estructura de folders basica"]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	[31mindex.html[m
+	[31mscript/[m
+	[31mstyles/[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present
+[1m[7m%[27m[1m[0m                                                                                ]2;hnorza@HNorzas-MacBook-Pro: ~/desktop/portafolio-nzySoft]1;..folio-nzySoft[0m[27m[24m[J[01;31m➜  [36mportafolio-nzySoft[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit p  git add .       t add .
